@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello 👋 I am Sabanm and welcome to my GitHub overview page!
 
-<!--
-**Sabanm99/Sabanm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 My repositories include a wide range of programming languages and technologies, from web development with HTML, CSS, and JavaScript to backend development with Python and Java. I am also interested in data science and have some projects related to that field.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabanm99&hide=contribs,prs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on AWS FinOps
+
+## Skills
+- AWS services such EC2, OpenSource, Redshift, Lamda Cost analysis 
+- Athena SQL
+- Python
+- PowerBi
+
+## Portfolio
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sabanm99.github.io/Portfolio/)  
+
+💬 I am always open to feedback and collaboration, so feel free to reach out to me if you have any questions or suggestions.
+
+🙏 Thank you for visiting my GitHub page and I hope you find something interesting here!
+
+
+
+
+
+
+
+
