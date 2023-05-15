@@ -7,7 +7,7 @@
 ## 🔭 I’m currently working as AWS FinOps Engineer
 
 ## Skills
-- AWS services such as EC2, OpenSource, Redshift, Lamda Cost Analysis 
+- AWS service Cost Analysis/Cloud Optimization using 
 - Athena SQL
 - Python
 - PowerBi
