@@ -21,8 +21,6 @@
 -  📌 [Linkedin](https://www.linkedin.com/in/sabanm-akter/)
 -  💌 [E-mail](mailto:sabanmakter99@gmail.com)
 
-💬 I am always open to feedback and collaboration, so feel free to reach out to me if you have any questions or suggestions.
-
 🙏 Thank you for visiting my GitHub page and I hope you find something interesting here!
 
 
